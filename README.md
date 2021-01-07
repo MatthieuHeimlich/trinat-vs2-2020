@@ -2,6 +2,18 @@
 
 Vorlage für Abgabe der Aufgaben verteilte Systeme 2 (HS2020)
 
+Abgabe von Matthieu Heimlich.
+
+Folgende Übungen wurden komplett bearbeitet:
+
+- Socket: TippDesTagesClient und TippDesTagesServer: OK
+- Socket: ContestClient: OK
+- Threads01: Threads Übungen Teil 1: OK
+- Threads02: Threads Übungen Teil 2: OK
+- Docker: Docker Praktikum: Docker-Wahle OK, nginx konnte nicht hochgeladen werden.
+- Web: Simple Webserver: OK
+- Html: Code Makery HTML CSS: OK
+
 <br>
 
 
